@@ -1,0 +1,84 @@
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
+	margin: 20; padding: 0; border: 0;
+}
+
+body {
+	background: #f6f6f6 url(images/bg.png);
+	font: 14px Georgia, serif; color: #545454; line-height: 24px;
+	
+
+}
+#name {
+	font-size: 20px;
+	font-family: 'Playfair Display', serif; color: #545454;
+	font-weight: 550; text-transform: capitalize;
+	float: left; text-align: left;
+}
+
+#graphicanduxui {
+	font-size: 15px;
+	font-family: 'Playfair Display', serif; color: #545454;
+	font-weight: 500; text-transform: capitalize;
+	float: left; text-align: left;
+}
+
+#logo {
+	margin: 0; auto 0 auto; position:relative; width: 100% px;
+}
+
+#nav {
+	font-size: 13px;
+	font-family: 'Playfair Display', serif; color: #545454;
+	font-weight: normal; text-align: left;
+	float: right; 
+	width: 900px;
+}
+
+#container { 
+	width: 960px; margin:0 auto;
+
+}
+
+#mainphoto {
+	
+}
+
+
+ul#nav {
+	width: 940px; list-style: none; overflow: hidden; margin: -134px auto 25 px
+}
+
+ul#nav li {
+	width:126px; height:20 px; float: right; padding: 13px 0 0 0;
+	background: url(images/nav-bg.png);
+	font font-weight: 500; text-align: left; text-transform: capitalize;
+}
+
+ul#nav li:nth-child(1) {
+	margin: 0 0px 0 0;
+	}
+
+ul#nav li:nth-child(2) {
+	margin: 0 0px 0 0;
+	}
+
+ul#nav li:nth-child(3) {
+	margin: 0 0px 0 0;
+	}
+
+ul#nav li:nth-child(4) {
+	margin: 0 0px 0 0;
+	}
+
+ul#nav li:nth-child(5) {
+	margin: 0 0px 0 0;
+	}
+
+#footer {
+	font-size: 9px;
+	font-family: helvetica; color: #bdbdbd;
+	text-align: center;
+
+}
+
+
